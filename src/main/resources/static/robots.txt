@@ -1,0 +1,6 @@
+User-Agent: Special-UA
+Allow: /special
+
+User-Agent: *
+Disallow: /
+
